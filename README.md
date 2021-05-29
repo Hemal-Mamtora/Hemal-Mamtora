@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hemal Mamtora</h1>
 <h3 align="center">I love problem solving!</h3>
 
-I'm Interested in Data and Software and everything in between!\
-Let's talk about: Software Engineering, Machine Learning, Computer Vision, Natural Language Processing.
+<h4>  I'm Interested in Data and Software and everything in between! </h4>
+<h4>Let's talk about: Software Engineering, Machine Learning, Computer Vision, Natural Language Processing.</h4>
 
-I ❤️ open source! 
+<h5>I ❤️ open source!</h5>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hemal-Mamtora&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hemal-Mamtora&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Hemal's github stats" />
 </a>
 
 
