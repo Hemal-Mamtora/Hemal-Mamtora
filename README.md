@@ -2,7 +2,7 @@
 
 I love Problem Solving!
 
-I'm Interested in Data and Software and everything in between!
+I'm Interested in Data and Software and everything in between!\
 Let's talk about: Software Engineering, Machine Learning, Computer Vision, Natural Language Processing.
 
 I ❤️ open source! 
