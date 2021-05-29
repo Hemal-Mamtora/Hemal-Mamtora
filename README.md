@@ -2,9 +2,9 @@
 <h3 align="center">I love problem solving!</h3>
 
 <h4>  I'm Interested in Data and Software and everything in between! </h4>
-<h4>Let's talk about: Software Engineering, Machine Learning, Computer Vision, Natural Language Processing.</h4>
+Let's talk about: Software Engineering, Machine Learning, Computer Vision, Natural Language Processing.
 
-<h5>I ❤️ open source!</h5>
+<h4>I ❤️ open source!</h4>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hemal-Mamtora&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Hemal's github stats" />
