@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hemal Mamtora</h1>
+<h1 align="center">Hi 👋 I'm Hemal Mamtora</h1>
 <h3 align="center">I love problem solving!</h3>
 
 <h4>  I'm Interested in Data and Software and everything in between! </h4>
