@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Hemal Mamtora</h1>
+ff<h1 align="center">Hi 👋 I'm Hemal Mamtora</h1>
 <h3 align="center">I love problem solving!</h3>
 
 <h4>  I'm Interested in Data and Software and everything in between! </h4>
@@ -10,13 +10,15 @@ Let's talk about :
 * Natural Language Processing.
 
 <h4>I ❤️ open source!</h4>
+<!--
 <br/>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hemal-Mamtora&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Hemal's github stats" />
 </a>
 <h4></h4>
 <br/>
+-->
+
 
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemal-mamtora" alt="hemal-mamtora" /></a> </p> -->
